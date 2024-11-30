@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "828851409748",
+    "project_id": "voice-recognize-c6b16",
+    "storage_bucket": "voice-recognize-c6b16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828851409748:android:a97ef493e9aef16b516ec1",
+        "android_client_info": {
+          "package_name": "com.example.voice_recognize"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdUz3bTjXoMutp4X9QZa8bltI5-Ptiw-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
